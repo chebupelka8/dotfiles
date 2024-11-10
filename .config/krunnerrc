@@ -1,0 +1,12 @@
+[General]
+FreeFloating=true
+historyBehavior=Disabled
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+baloosearchEnabled=true
+
+[Plugins][Favorites]
+plugins=krunner_services

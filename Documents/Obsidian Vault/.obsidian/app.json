@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "foldIndent": true,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "vimMode": true,
+  "showLineNumber": true
+}

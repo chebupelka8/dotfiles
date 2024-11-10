@@ -1,0 +1,12 @@
+[AC][Display]
+DisplayBrightness=0
+UseProfileSpecificDisplayBrightness=true
+
+[AC][SuspendAndShutdown]
+AutoSuspendAction=0
+LidAction=0
+PowerButtonAction=0
+PowerDownAction=0
+
+[BatteryManagement]
+BatteryCriticalAction=1

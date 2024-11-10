@@ -1,0 +1,110 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 35,
+    "spacing": 4,
+    "floating": true,
+    "margin": "7 10 0 10",
+    "exclusive": true,
+    "gtk-layer-shell": true,
+    "passthrough": false,
+    "fixed-center": true,
+    "modules-left": ["hyprland/workspaces", "hyprland/window"],
+    "modules-center": [
+      "cpu",
+      "memory",
+      "pulseaudio",
+    ],
+    "modules-right": [
+      "hyprland/language",
+      "network",
+      "clock",
+      "clock#simpleclock",
+      "tray",
+      "custom/power"
+    ],
+    "custom/spotify": {
+      "format": "{}",
+      "return-type": "json",
+      "on-click": "playerctl -p spotify play-pause",
+      "on-click-right": "spotifatius toggle-liked",
+      "on-click-middle": "playerctl -p spotify next",
+      "exec": "spotifatius monitor",
+    },
+    "hyprland/window": {
+        "format": "{}",
+        "max-length": 50,
+    },
+    "hyprland/workspaces": {
+      "on-click": "activate",
+      "format": "{name}",
+      "persistent-workspaces": {
+        "*": 4
+      },
+    },
+    "tray": {
+      "show-passive-items": true,
+      "spacing": 10,
+    },
+    "clock#simpleclock": {
+      "tooltip": true,
+      "format": "  {:%H:%M}",
+      "tooltip-format": "  {:%H:%M:%S}",
+      "interval": 1,
+    },
+    "clock": {
+      "format": "  {:L%a %d %b}",
+      "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+      "locale": "en_US.UTF-8",
+    },
+    "cpu": {
+      "format": "  {usage}%",
+      "tooltip": true,
+      "interval": 1,
+    },
+    "memory": {
+      "format": "  {used:0.2f}G",
+    },
+    "pulseaudio": {
+      "format": "{icon} {volume}%",
+      "format-muted": "  muted",
+      "format-icons": {
+        "headphone": " ",
+        "hands-free": "󰂑",
+        "headset": "󰂑",
+        "phone": "",
+        "portable": "",
+        "car": "",
+        "default": [" ", " ", " "],
+      },
+      "on-click": "pavucontrol",
+    },
+    "custom/logo": {
+      "format": "",
+      "tooltip": false,
+    },
+    "custom/sep": {
+      "format": "|",
+      "tooltip": false,
+    },
+    "custom/power": {
+      "tooltip": false,
+      "on-click": "wlogout",
+      "format": "⏻ ",
+    },
+    "hyprland/language": {
+      "format": "{long}",
+    },
+    "network": {
+      "format": " ",
+      "format-wifi": "  {signalStrength}%",
+      "format-ethernet": "  {ifname}",
+      "format-disconnected": "  Disconnected",
+      "tooltip-format": "  {ifname} via {gwaddri}",
+      "tooltip-format-wifi": "  {ifname} @ {essid}\nIP: {ipaddr}\nStrength: {signalStrength}%\nFreq: {frequency}MHz\nUp: {bandwidthUpBits} Down: {bandwidthDownBits}",
+      "tooltip-format-ethernet": "  {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
+      "tooltip-format-disconnected": "  Disconnected",
+      "max-length": 50,
+      "on-click": "~/dotfiles/.settings/networkmanager.sh"
+    },
+}

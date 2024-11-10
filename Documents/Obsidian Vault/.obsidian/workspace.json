@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "18efcbbd0e2dce55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8e17d8bbb99725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a1002fb48045da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Preparation/ВсОШ/ШЭ/Нетематический контест/Нетематический контест.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "005671fc46d6fce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88645c6591e1560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d0d10d15ff04d33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "47150054a62bfbb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6d2dd592bbec145",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "4873dc297e0e73a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "662c12a6d2ec4ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d15503b5d322e01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preparation/ВсОШ/ШЭ/Нетематический контест/Нетематический контест.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f65e0170a964c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preparation/ВсОШ/ШЭ/Нетематический контест/Нетематический контест.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b836389a506a5ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "722f53a0f5fdf179",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1560f6c3c557aa10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preparation/ВсОШ/ШЭ/Нетематический контест/Нетематический контест.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "58a1002fb48045da",
+  "lastOpenFiles": [
+    "Preparation/ВсОШ/ШЭ/Нетематический контест/Drawing 2024-11-03 11.13.58.excalidraw.md",
+    "Preparation/ВсОШ/ШЭ/Нетематический контест/Нетематический контест.pdf",
+    "Education/Olympiad programming/Solutions/Просто сложение.md",
+    "Education/Olympiad programming/Solutions/School building.md",
+    "Education/Olympiad programming/Just patterns.md",
+    "Education/Olympiad programming/Solutions/Кубы палиндромы.md",
+    "Preparation/ВсеСибирская/Отборочный этап/2022-2023/Отбор.pdf",
+    "Pictures/code 1.png",
+    "Preparation/ВсОШ/ШЭ/Линейные алгоритмы/Линейные алгоритмы.pdf",
+    "Preparation/ВсОШ/ШЭ/Линейные алгоритмы/Drawing 2024-11-01 11.07.49.excalidraw.md",
+    "Preparation/ВсОШ/ШЭ/Линейные алгоритмы/B.md",
+    "Preparation/ВсОШ/ШЭ/Бинпоиск",
+    "Preparation/ВсОШ/ШЭ/Два указателя",
+    "Preparation/ВсеСибирская/Отборочный этап",
+    "Preparation/ВсеСибирская/Без названия.md",
+    "Passwords/Olymp.md",
+    "Pictures/code_0.png",
+    "Pictures/code.png",
+    "canvas.canvas",
+    "Preparation/ВсОШ/ШЭ/Solutions/Нетематический контест/Без названия.md",
+    "Excalidraw/Drawing 2024-11-02 08.59.48.excalidraw.md",
+    "Preparation/ВсОШ/ШЭ/Нетематический контест",
+    "lol.md",
+    "Excalidraw/Drawing 2024-11-01 17.12.51.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "just note.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "hello world.md",
+    "Preparation/ВсеСибирская/Отборочный этап/2020-2021/Разбор задач ВООШ 2020-21 по информатике 1 этап.pdf",
+    "Education/FastAPI/Pydantic.md",
+    "Excalidraw/Drawing 2024-10-30 20.37.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-01 16.24.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-01 16.36.28.excalidraw.md",
+    "Preparation/ВсОШ/ШЭ/Solutions/Линейные алгоритмы/Drawing 2024-11-01 10.12.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-31 17.14.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-31 16.55.57.excalidraw.md",
+    "Preparation/Algorithms/Binary search.md",
+    "Education/Return codes.md",
+    "Pictures/20241001_08h54m31s_grim.png",
+    "Pictures/20241001_09h04m36s_grim.png",
+    "Pictures/20241001_08h54m50s_grim.png",
+    "Pictures/Binary-Search-4228015379.png",
+    "Pictures/thumb 1.jpeg",
+    "Pictures/20240916_19h34m28s_grim.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas"
+  ]
+}

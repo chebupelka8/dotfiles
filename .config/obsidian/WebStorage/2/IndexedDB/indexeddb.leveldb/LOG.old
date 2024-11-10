@@ -1,0 +1,6 @@
+2024/10/30-21:01:28.067 20ae Reusing MANIFEST /home/step/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/30-21:01:28.067 20ae Recovering log #3
+2024/10/30-21:01:28.071 20ae Reusing old log /home/step/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/10/30-21:01:28.992 20ae Level-0 table #5: started
+2024/10/30-21:01:29.047 20ae Level-0 table #5: 1519354 bytes OK
+2024/10/30-21:01:29.073 20ae Delete type=0 #3

@@ -1,0 +1,22 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2560x1440 screen: XPosition=862
+2560x1440 screen: YPosition=423
+DP-0=DP-0
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Новый документ.pdf
+File2[$e]=$HOME/Desktop/Workspace/Projects/NoteSphere/README.md
+File3[$e]=$HOME/Downloads/Telegram Desktop/Создание_Телеграмм_бота_на_Python_+_aiogram3.pdf
+File4[$e]=/usr/share/zsh-theme-powerlevel10k/font.md
+Name1[$e]=Новый документ.pdf
+Name2[$e]=README.md
+Name3[$e]=Создание_Телеграмм_бота_на_Python_+_aiogram3.pdf
+Name4[$e]=font.md

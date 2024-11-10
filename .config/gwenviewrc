@@ -1,0 +1,48 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[ImageView]
+ThumbnailSplitterSizes=524,150
+
+[KPropertiesDialog]
+2560x1440 screen: Height=500
+2560x1440 screen: Width=399
+
+[MainWindow]
+2560x1440 screen: Height=771
+2560x1440 screen: Width=807
+2560x1440 screen: XPosition=876
+2560x1440 screen: YPosition=374
+DP-0=DP-0
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.config/wallpapers/wallpaper2.jpg
+File10[$e]=$HOME/.config/wallpapers/City-Rain.png
+File2[$e]=$HOME/Downloads/Wallpaper-Bank/wallpapers/Anime-Room.png
+File3[$e]=$HOME/.config/wallpapers/wallhaven-o3r2kl.jpg
+File4[$e]=$HOME/.config/wallpapers/wallpaper4.jpg
+File5[$e]=$HOME/.config/wallpapers/wallpaper5.jpg
+File6[$e]=$HOME/.config/wallpapers/Anime-City-Night.png
+File7[$e]=$HOME/.config/wallpapers/wallpaper6.png
+File8[$e]=$HOME/Pictures/20240527_11h57m37s_grim.png
+File9[$e]=$HOME/.config/wallpapers/anime-school-girl-watching-the-sky-at-the-train-station-moewalls-com.mp4
+Name1[$e]=wallpaper2.jpg
+Name10[$e]=City-Rain.png
+Name2[$e]=Anime-Room.png
+Name3[$e]=wallhaven-o3r2kl.jpg
+Name4[$e]=wallpaper4.jpg
+Name5[$e]=wallpaper5.jpg
+Name6[$e]=Anime-City-Night.png
+Name7[$e]=wallpaper6.png
+Name8[$e]=20240527_11h57m37s_grim.png
+Name9[$e]=anime-school-girl-watching-the-sky-at-the-train-station-moewalls-com.mp4
+
+[SideBar]
+InformationSplitterSizes=218,257
+SideBarSplitterSizes=211,450
